@@ -1,0 +1,1 @@
+/Users/jimmiejohansson/Code/hackson-foundation/web/app/plugins/query-monitor/wp-content/db.php
